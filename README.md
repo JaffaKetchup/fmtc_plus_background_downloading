@@ -1,4 +1,4 @@
-# [fmtc](https://pub.dev/packages/flutter_map_tile_caching)_plus_sharing
+# [fmtc](https://pub.dev/packages/flutter_map_tile_caching)_plus_background_downloading
 
 A module for ['flutter_map_tile_caching'](https://pub.dev/packages/flutter_map_tile_caching) providing import and export functionality.
 
@@ -7,7 +7,7 @@ A module for ['flutter_map_tile_caching'](https://pub.dev/packages/flutter_map_t
 ## [FMTC Documentation](https://fmtc.jaffaketchup.dev)
 
 For the full documentation, visit [the website](https://fmtc.jaffaketchup.dev) made with GitBook. It also has information about using the example application.  
-Alternatively, for the API reference, look at the [auto generated 'dartdoc'](https://pub.dev/documentation/fmtc_plus_sharing/latest/fmtc_plus_sharing/fmtc_plus_sharing-library.html), which also appears as you type in your favourite IDE.
+Alternatively, for the API reference, look at the [auto generated 'dartdoc'](https://pub.dev/documentation/fmtc_plus_background_downloading/latest/fmtc_plus_background_downloading/fmtc_plus_background_downloading-library.html), which also appears as you type in your favourite IDE.
 
 ---
 
