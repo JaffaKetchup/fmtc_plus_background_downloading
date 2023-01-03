@@ -1,0 +1,34 @@
+name: fmtc_plus_background_downloading
+description: Module for 'flutter_map_tile_caching' providing background bulk download functionality on Android.
+version: 7.0.0
+homepage: https://github.com/JaffaKetchup/flutter_map_tile_caching
+repository: https://github.com/JaffaKetchup/fmtc_plus_background_downloading
+issue_tracker: https://github.com/JaffaKetchup/flutter_map_tile_caching/issues
+documentation: https://fmtc.jaffaketchup.dev
+
+funding:
+  - https://github.com/sponsors/JaffaKetchup
+  - https://ko-fi.com/jaffaketchup
+
+platforms:
+  android:
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+  flutter: ">=3.3.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_background: ^1.1.0
+  flutter_local_notifications: ^13.0.0
+  flutter_map_tile_caching:
+    path: C:/Users/lukas/Documents/GitHub/flutter_map_tile_caching
+  move_to_background: ^1.0.2
+  permission_handler: ^10.0.0
+
+  
+dev_dependencies:
+  flutter_lints: ^2.0.1
+
+flutter: null
