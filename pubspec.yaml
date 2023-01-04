@@ -5,6 +5,7 @@ homepage: https://github.com/JaffaKetchup/flutter_map_tile_caching
 repository: https://github.com/JaffaKetchup/fmtc_plus_background_downloading
 issue_tracker: https://github.com/JaffaKetchup/flutter_map_tile_caching/issues
 documentation: https://fmtc.jaffaketchup.dev
+publish_to: none
 
 funding:
   - https://github.com/sponsors/JaffaKetchup
@@ -23,7 +24,9 @@ dependencies:
   flutter_background: ^1.1.0
   flutter_local_notifications: ^13.0.0
   flutter_map_tile_caching:
-    path: C:/Users/lukas/Documents/GitHub/flutter_map_tile_caching
+    git:
+      url: https://github.com/JaffaKetchup/flutter_map_tile_caching.git
+      ref: next-version
   move_to_background: ^1.0.2
   permission_handler: ^10.0.0
 
