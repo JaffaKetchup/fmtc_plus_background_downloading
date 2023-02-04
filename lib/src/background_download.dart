@@ -144,7 +144,7 @@ extension FMTCBackgroundDownloadingModule on DownloadManagement {
               0,
               progressNotificationTitle,
               progressNotificationBody == null
-                  ? '${event.attemptedTiles}/${event.maxTiles} (${event.percentageProgress.round().toString()}%)'
+                  ? '${event.attemptedTiles}/${event.maxTiles} (${event.percentageProgress.round()}%)'
                   : progressNotificationBody(event),
               NotificationDetails(
                 android: androidNotificationDetails.copyWith(
